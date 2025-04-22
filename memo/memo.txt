@@ -1,0 +1,9 @@
+$ git log --oneline --graph --all
+* 0887681 (HEAD -> master, origin/master) commit5
+* c0f2799 commit2
+* 8cb2d63 commit1
+| * ff552d5 (origin/develop, develop) commit4
+| * b0fd2cf commit3
+|/
+* afdc3ad commit2
+* f468c37 commit1
